@@ -13,6 +13,8 @@ smart.php
 node_modules
 package-lock.json
 package.json
+scripter.js
+
 # misc
 .DS_Store
 .env.local
